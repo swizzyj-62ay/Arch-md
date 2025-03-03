@@ -12,8 +12,8 @@ const { version } = require("./package.json")
 require('dotenv').config(); 
 
 //======= Change settings =======\\
-global.owner = process.env.OWNER_NUMBER || "2347036214381"
-global.botname = process.env.BOT_NAME || "αrch md"
+global.owner = process.env.OWNER_NUMBER || "2348093538971"
+global.botname = process.env.BOT_NAME || "swizz"
 global.ownername = process.env.OWNER_NAME || "Ednut"; //set bot owner name here 
 global.prefix = process.env.PREFIX || "."; // your desired prefix symbol only
 global.timezone = process.env.TIME_ZONE || "Africa/Lagos";
